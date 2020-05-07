@@ -561,6 +561,7 @@ nope
 - [Warren Cheng](https://github.com/et265831)
 - [Marco Cucchi](https://github.com/marco-cucchi)
 - [Denis Rossi](https://github.com/denisrossi)
+- [Gopalakrishnan](https://github.com/gopal1996/)
 - [Liang Liu](https://github.com/liuliang136)
 - [Oliver Escoto](https://github.com/oliverJurgen)
 - [Richard Wang](https://github.com/richardlwang)
